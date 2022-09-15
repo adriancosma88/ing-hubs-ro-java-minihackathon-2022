@@ -73,7 +73,6 @@ public class NetflixRecommendationTest {
                 new User(5, new int[]{3, 4, 2, 1, 4}),
                 new User(6, new int[]{1, 1, 1, 1, 1}),
                 new User(7, new int[]{4, 3, 5, 1, 5}),
-                new User(8, new int[]{2, 1, 2, 3, 1}),
                 new User(9, new int[]{1, 2, 2, 4, 1}),
                 new User(10, new int[]{1, 3, 5, 1, 5}),
                 new User(11, new int[]{4, 4, 5, 1, 1}),
